@@ -685,7 +685,7 @@ void rules()
     printf("\t2.you have to back in hostel in due time. \n\t\t\tsummer: last time 7.00pm\n\t\t\twinter: last time 6.00pm \n");
     printf("\t3.before 6 month you cant leave the hostel.\n");
     printf("\t4.if you want to leave this hostel you have to inform the hostel \n\tauthority before 2 month.\n");
-    printf("\t5.if you have computer or laptop, we have to pay 100tk as fee.\n");
+    printf("\t5.if you have computer or laptop, you have to pay 100tk as fee.\n");
     printf("\t6.only your two local guardian can come to meet with you\n");
 }
 
